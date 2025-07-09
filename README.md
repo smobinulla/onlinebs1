@@ -1,6 +1,6 @@
 # OnlineBookStore Website Using Java 
-### <a href="https://shashirajraja.github.io/onlinebookstore/WebContent/index.html" target="_blank">Online Book Store</a>
-#### To View Front End Design of this website <a href="https://shashirajraja.github.io/onlinebookstore/WebContent/index.html" target="_blank">Click Here</a><br>
+
+
 <span style="color:blue">**This Website is built for following purpose:-**</span>
 - For Selling books online.
 - Maintaining books selling history.
@@ -29,7 +29,7 @@
 - Html.
 - Css.
 - Javascript.
-- <a href="https://shashirajraja.github.io/onlinebookstore/WebContent/index.html" target="_blank">Click Here for Front End View</a>
+
 
 2. Back-End Development
 - Java.
@@ -44,7 +44,7 @@
 
 ### Database Creation:
 
-Go to the Folder named <a href="https://github.com/shashirajraja/onlinebookstore/blob/gh-pages/Dummy_Database.md">Dummy_Database.md</a> and copy and paste the mysql command for making the database tables and fill some dummy database.
+
 
 
 Note:- This is a basic Project so we have not think about the security and we have only implemented this project using the generic servlet
@@ -53,4 +53,4 @@ Note:- This is a basic Project so we have not think about the security and we ha
 
 <bold>Thanks a lot</bold><br/>
                                                                                                         Project Leader<br/>
-                                                                                                         <b>Shashi Raj</b>
+                                                                                                         <b>Mobinulla Shaik</b>
